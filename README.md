@@ -6,9 +6,9 @@
 
 ## 🍀 MEMBER
 
-| 이름 | 이름 | 이름 | 이름 |
+| [정순원](https://github.com/sunwon12) | 이름 | 이름 | 이름 |
 | :---: |:---:|:---:|:---:|
-| <img src="https://github.com/sunwon12.png" width="100px;" alt="정순원 프로필 사진"/><br/>[정순원](https://github.com/sunwon12) | 이름 | 이름 | || 이름 | 이름 | |
+| <img src="https://github.com/sunwon12.png" width="100px;" alt="정순원 프로필 사진"/>| 이름 | 이름 | || 이름 | 이름 | |
 
 <br>
 
